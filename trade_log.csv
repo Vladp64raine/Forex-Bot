@@ -1,0 +1,10 @@
+event,message,result,features,timestamp
+ERROR,No data fetched from MT5,ERROR,,2025-06-03T23:26:03.245861
+ERROR,'NoneType' object is not iterable,ERROR,,2025-06-04T00:03:29.728889
+ERROR,'NoneType' object is not iterable,ERROR,,2025-06-04T00:04:29.855361
+ERROR,'NoneType' object is not iterable,ERROR,,2025-06-04T00:05:29.992434
+ERROR,'NoneType' object is not iterable,ERROR,,2025-06-04T00:06:30.113752
+ERROR,'NoneType' object is not iterable,ERROR,,2025-06-04T00:07:30.339809
+ERROR,'NoneType' object is not iterable,ERROR,,2025-06-04T00:08:30.464376
+ERROR,'NoneType' object is not iterable,ERROR,,2025-06-04T03:47:57.198369
+ERROR,'NoneType' object is not iterable,ERROR,,2025-06-04T03:48:59.363034

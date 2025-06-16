@@ -1,0 +1,10 @@
+numpy
+pandas
+ta
+MetaTrader5
+scikit-learn
+xgboost
+lightgbm
+catboost
+RobustScaler
+joblib
