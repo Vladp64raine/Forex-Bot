@@ -71,6 +71,7 @@ def get_mt5_connection(max_retries=3, retry_delay=5):
 
 def safe_feature_serialization(features):
     """Handle serialization of complex feature objects"""
+    print("Serializing features:", features)
     if features is None:
         return ""
     try:
